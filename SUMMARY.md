@@ -6,5 +6,9 @@
     * [November](november.md)
 * [Salesforce](chapter1.md)
   * [Resources](resources.md)
+* [Environment](environment.md)
+  * [Mac](mac.md)
+  * [Windows](windows.md)
+
 
 
