@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-  * [Hello](hello.md)
-
-
+* [Salesforce](chapter1.md)
+  * [Resources](resources.md)
 
