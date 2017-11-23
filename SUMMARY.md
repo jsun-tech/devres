@@ -9,6 +9,6 @@
 * [Environment](environment.md)
   * [Mac](mac.md)
   * [Windows](windows.md)
-
-
+* [Continous Integration](continous-integration.md)
+* [CumulusCI](cumulusci.md)
 
