@@ -11,7 +11,11 @@
 
 * Install python, pip and virtualenv
 * Install CumulusCI
+* Setup your Orgs
 * Deploy MetaCI in Heroku
+
+## Setup Orgs
+
 
 
 
