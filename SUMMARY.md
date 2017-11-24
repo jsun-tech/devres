@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Jorney](jorney.md)
+* [Journey](journey.md)
   * [2017](2017.md)
     * [November](november.md)
 * [Salesforce](chapter1.md)
