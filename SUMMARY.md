@@ -6,12 +6,10 @@
     * [November](november.md)
 * [Salesforce](chapter1.md)
   * [Resources](resources.md)
-  * [Continous Integration](https://www.gitbook.com/book/junjs/devres/edit#)
-    * [CumulusCI](https://www.gitbook.com/book/junjs/devres/edit#)
+  * [Continous Integration](continous-integration.md)
+    * [CumulusCI](cumulusci.md)
 * [Environment](environment.md)
   * [Mac](mac.md)
   * [Windows](windows.md)
   * [Linux](linux.md)
-
-
 
