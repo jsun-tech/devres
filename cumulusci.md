@@ -2,12 +2,10 @@
 
 ## Introduction
 
+## Documentation & Tutorials
 
-
-## Documentation & Tutorials 
-
-* http://cumulusci.readthedocs.io/en/latest/index.html
-* http://metaci-cli.readthedocs.io/en/latest/index.html
+* [cumulusci documentation](/h ttp://cumulusci.readthedocs.io/en/latest/index.html)
+* [metaci documentation](http://metaci-cli.readthedocs.io/en/latest/index.html)
 
 ## Setup
 
