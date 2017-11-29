@@ -27,6 +27,8 @@
 ## 29/11/2017
 
 * https://frontendmasters.com/books/front-end-handbook/2017/
+* https://www.infoq.com/
+* https://www.thoughtworks.com/radar
 
 
 
