@@ -23,6 +23,9 @@
 * [https://www.mint.com/mint-categories](https://www.mint.com/mint-categories)
 * [https://alexjj.com/blog/2016/2/managing-my-personal-finances-with-beancount/](https://alexjj.com/blog/2016/2/managing-my-personal-finances-with-beancount/)
 * [https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04)
+
+## 29/11/2017
+
 * https://frontendmasters.com/books/front-end-handbook/2017/
 
 
