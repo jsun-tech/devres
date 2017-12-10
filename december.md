@@ -3,3 +3,5 @@
 ### Resources of the day
 
 - http://howmuchtomakeanapp.com
+- hacker.com
+- cryptokittines.com
