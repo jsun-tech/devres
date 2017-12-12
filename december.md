@@ -9,7 +9,8 @@
 ## 12/12/2017
 
 * [http://cyborginstitute.org/projects/administration/documentation/](http://cyborginstitute.org/projects/administration/documentation/)
-* http://hackingig.com/what-are-software-testing-levels/
+* [http://hackingig.com/what-are-software-testing-levels/](http://hackingig.com/what-are-software-testing-levels/)
+* https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/01/17/alm-sdlc-and-devops-which-witch-is-which/
 
 
 
