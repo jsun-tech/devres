@@ -8,7 +8,8 @@
 
 ## 12/12/2017
 
-* http://cyborginstitute.org/projects/administration/documentation/
+* [http://cyborginstitute.org/projects/administration/documentation/](http://cyborginstitute.org/projects/administration/documentation/)
+* http://hackingig.com/what-are-software-testing-levels/
 
 
 
